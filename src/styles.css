@@ -55,7 +55,7 @@ body{
 } */
 
 .greeting{
-    font-size: 50px;
+    font-size: 30px;
     margin: auto;
     position: relative;
     text-align: center;
@@ -79,7 +79,7 @@ body{
 .love{
     color: #e25555;
     display: inline;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 p{
@@ -96,7 +96,7 @@ p{
     width: 90%;
     border: 1px solid rgb(128, 128, 128);
     position: relative;
-    margin: 50px auto;
+    margin: 30px auto 10px;
     background-color: wheat;
     border-radius: 20px;
     box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.541);
@@ -108,8 +108,8 @@ p{
 }
 .card{
     width: 70%;
-    height: 300px;
-    margin: 30px auto 50px; 
+    height: 250px;
+    margin: 30px auto 30px; 
     border-radius: 15px;
     position: relative;
     box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.541);
@@ -211,7 +211,7 @@ p{
   white-space: nowrap;
   animation: typing 2s steps(40) 1s forwards;
   display: inline;
-  font-size: 30px;
+  font-size: 20px;
   margin: auto;
   position: relative;
   z-index: 100;
@@ -226,7 +226,7 @@ p{
 
 
 .el{
-  width: 150px;
+  width: 120px;
   border-radius: 20px;
   display: none;
 }
