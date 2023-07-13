@@ -1,6 +1,6 @@
 
 
-var audio = new Audio('https://github.com/dafsuy/darul.github.io/blob/main/Banda%2520Neira%2520-%2520Sampai%2520Jadi%2520Debu.mp3');
+var audio = new Audio('src/lagu.mp3');
 audio.autoplay = true;
 audio.loop = true;
 audio.currentTime = 43;
