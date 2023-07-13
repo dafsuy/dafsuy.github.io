@@ -15,7 +15,7 @@ let body = document.body;
 let background;
 let i = 0, kata, j = 2;
 let k1 = 'Selamat Ulang Tahun Elul...';
-let k2 = 'HAPPY 19TH BIRTH DAY';
+let k2 = 'HAPPY 19TH BIRTH DAY ELIAN';
 let k3 = 'Halooo El...';
 let k4 = 'Selamat Ulang Tahun yaaa..';
 let k5 = 'Semoga panjang umur, sehat dan lancar rezeki selalu yaa..';

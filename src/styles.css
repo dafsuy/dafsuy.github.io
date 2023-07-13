@@ -55,8 +55,8 @@ body{
 } */
 
 .greeting{
-    font-size: 30px;
-    margin: auto;
+    font-size: 35px;
+    margin: 20px auto;
     position: relative;
     text-align: center;
     color: #e25555;
@@ -211,7 +211,7 @@ p{
   white-space: nowrap;
   animation: typing 2s steps(40) 1s forwards;
   display: inline;
-  font-size: 20px;
+  font-size: 25px;
   margin: auto;
   position: relative;
   z-index: 100;
